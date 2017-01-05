@@ -1,2 +1,2 @@
 # myrepo
-Udacity repository
+Udacity GitHub repository
